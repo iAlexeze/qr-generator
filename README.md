@@ -110,6 +110,9 @@ pip install -r requirements.txt
 ## 📄 License
 
 MIT License © 2025 [Alex Eze](mailto:ialexeze@gmail.com)
+
+---
+
 ![Alex QR Code](./qrgen/qr.png)
 
 ---
