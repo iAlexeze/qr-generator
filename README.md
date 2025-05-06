@@ -113,7 +113,9 @@ MIT License © 2025 [Alex Eze](mailto:ialexeze@gmail.com)
 
 ---
 
-![Alex QR Code](./qrgen/qr.png)
+<div align="center">
+  <img src="./qrgen/qr.png" alt="Alex QR Code" width="200"/>
+</div>
 
 ---
 
